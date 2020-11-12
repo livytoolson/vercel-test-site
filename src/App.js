@@ -5,7 +5,8 @@ import './App.css';
 function App() {
   return (
     <main>
-      <h1>Livy's App</h1>
+      <h1>Livy's Site</h1>
+      <p>Ready for Business</p>
     </main>
   );
 }
